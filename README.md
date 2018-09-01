@@ -1,10 +1,11 @@
 # 简历
 ##个⼈信息
-* 穆毅鹏 / 男 / 1989 / 17098041089
+* 穆毅鹏 / 男 / 1989 
 * 博客：http://blog.sina.com.cn/muyipeng
 * GitHub: https://github.com/yipengmu
 * 邮箱：yipengmu@gmail.com
-* qq(微信)：316462198
+* 微信：yipengmu
+* 微信公众号（周更）：土豆他爸爸
 
 ## 教育经历
 * ⻄安邮电⼤学(本科)：软件⼯程毕业 - ⼯作年限：4年
