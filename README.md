@@ -1,5 +1,5 @@
 # 简历
-##个⼈信息
+## 个⼈信息
 * 穆毅鹏 / 男 / 1989 
 * 博客：http://blog.sina.com.cn/muyipeng
 * GitHub: https://github.com/yipengmu
